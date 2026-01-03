@@ -1,0 +1,13 @@
+.mar{border: 2px solid;
+border-radius: 10px;
+margin:20px;
+width: 360px;
+padding: 10px;
+background-image: url(ma.avif);
+color: blue;
+text-align: center;
+transition: all;
+}
+.sum{
+    background-image: url(ba.avif);
+}
